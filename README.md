@@ -11,7 +11,7 @@ The model was trained on a merged combination of four publicly available facial 
 
 | Dataset | Description | Link |
 |---------|-------------|------|
-| **AffectNet** | Large-scale dataset with both naturally occurring and posed facial expressions, annotated with 8 emotion categories. One of the largest FER datasets available. | [mohammadmahoor.com/affectnet](http://mohammadmahoor.com/affectnet/) |
+| **AffectNet** | Large-scale dataset with both naturally occurring and posed facial expressions, annotated with 8 emotion categories. One of the largest FER datasets available. | [mohammadmahoor.com/affectnet](https://www.kaggle.com/datasets/mstjebashazida/affectnet) |
 | **CK+ (Extended Cohn-Kanade)** | A benchmark dataset of posed facial expression sequences captured in lab conditions, covering 7 emotion categories. | [Kaggle — CK+](https://www.kaggle.com/datasets/shawon10/ckplus) |
 | **FER2013** | ~35,000 grayscale 48×48 facial expression images across 7 emotions. Originally from the 2013 Kaggle Facial Expression Recognition Challenge. | [Kaggle — FER2013](https://www.kaggle.com/datasets/msambare/fer2013) |
 | **FER+ (FER25)** | An improved re-labelling of FER2013 by Microsoft Research, where each image was re-annotated by 10 crowd-sourced taggers for higher label accuracy. | [GitHub — FERPlus](https://github.com/microsoft/FERPlus) |
