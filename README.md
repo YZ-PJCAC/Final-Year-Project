@@ -23,7 +23,7 @@ The model was trained on a merged combination of four publicly available facial 
 
 - **ESP32-S3 CAM setup & firmware base** — [ittipu / IoT_Bhai_Youtube_Channel](https://github.com/ittipu/IoT_Bhai_Youtube_Channel/tree/b330d3f58b183840a606ab8beb32733b73c1977d/Complete%20ESP32%E2%80%91CAM%20Tutorial%20Playlist/1.%20Getting%20Started%20with%20Freenova%20ESP32-S3%20Cam%20Setup%20%26%20Web%20Server/freenova_esp32s3_cam_setup_and_webserver)
 - **OLED animated eye library** — [playfultechnology / esp32-eyes](https://github.com/playfultechnology/esp32-eyes)
-- **Face detection** — OpenCV Haar Cascade (`haarcascade_frontalface_default.xml`)
+
 
 ---
 
