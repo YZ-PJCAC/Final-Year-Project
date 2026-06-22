@@ -1,6 +1,6 @@
 # 🧠 Local Facial Emotion Recognition — AI Trainer
 
-A CNN-based facial emotion recognition model trained locally using TensorFlow/Keras. Built as a **Final Year Project** for educational purposes.
+A CNN-based facial emotion recognition model trained locally using TensorFlow/Keras. Built as a **Final Year Project** for educational purposes. The example dataset are given and if want to train with your own can follow the step below:
 
 ---
 
