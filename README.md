@@ -5,20 +5,6 @@ AI-Powered Eye Emotion Projection for STEM education
 This project is a Final Year Project (FYP) that combines **Artificial Intelligence** and **Internet of Things (AIoT)** to build a real-time facial emotion recognition system. An ESP32-S3 camera module captures the user's face and sends it over Wi-Fi to a local laptop, which uses a trained deep learning model to detect the emotion. The result is then displayed on an ESP32-C3 microcontroller with an OLED screen showing animated eye expressions that match the detected emotion — all running locally with no internet connection required.
 
 
-## 🤖 AI Model
-
-| Property | Details |
-|----------|---------|
-| Architecture | Convolutional Neural Network (CNN) |
-| Training Epochs | 25 |
-| Optimizer | Adam |
-| Loss Function | Categorical Cross-Entropy |
-| Input Shape | 48 × 48 px, grayscale |
-| Output | 7 emotion classes |
-| File Format | `.keras` |
-
----
-
 ## 📦 Datasets
 
 The model was trained on a merged combination of four publicly available facial expression datasets. All four share the same 7-emotion label structure, making them suitable for merging into a single unified training set.
