@@ -1,6 +1,5 @@
 ## Replacement arduino library file
-1.Download the esp32-eyes library from:
-https://github.com/playfultechnology/esp32-eyes
+1.Download the esp32-eyes library from: https://github.com/playfultechnology/esp32-eyes
 2.	Place the downloaded library folder in your Arduino libraries directory. The typical location is one of:
 C:\Users\YourUserName\Documents\Arduino\libraries\
 C:\Users\YourUserName\AppData\Local\Arduino15\
