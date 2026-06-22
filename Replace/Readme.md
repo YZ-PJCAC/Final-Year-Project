@@ -9,3 +9,4 @@ C:\Users\YourUserName\AppData\Local\Arduino15\
 4.	If library installed, look for a folder like: ...\Arduino\libraries\esp32-eyes\.
 5.	Replace both Common.h and Face.cpp with the custom versions provided by your hardware supplier. These modified files adjust the library to match the specific OLED wiring and display configuration of your ESP32-C3 board.
 
+# *Using the unmodified library files from GitHub will cause incorrect display behaviour or compilation errors on your specific hardware.
